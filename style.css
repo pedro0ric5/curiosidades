@@ -22,7 +22,7 @@ font-size: 2rem;
     border-collapse: collapse;
   }
   td {
-    border: 2px solid black;
+    border: 2px  #76d1a7;
     padding: 8px;
     text-align: center;
   }
